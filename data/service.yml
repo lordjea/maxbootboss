@@ -1,0 +1,28 @@
+enable : true
+heading : Our
+headingSpan : Features
+#headingSpan : Services
+serviceItem :
+  - icon : tf-globe
+    title : Continuous integration for development teams
+    #content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    
+  - icon : tf-ion-laptop
+    title : Auto discovering and monitoring platforms
+    #content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    
+  - icon : tf-genius
+    title : Migration physical to physical, P2V, V2V, C2C
+    #content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    
+  - icon : tf-dial
+    title : Import and Export tools
+    #content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    
+  - icon : tf-target3
+    title : Clone, backup, replicate complete platforms
+    #content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis.
+    
+  - icon : tf-lifesaver
+    title : Deploy from scratch
+    #content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
